@@ -1,5 +1,4 @@
-# Python
-## Repositorio Python
+# Repositorio Python
 
-### Contenido
+## Contenido
 * Aprendiendo python
